@@ -52,4 +52,3 @@ Perform an **Exploratory Data Analysis (EDA)** to uncover key insights for **inv
 
 ---
 
-✅ **Perfect for portfolio**: Showcases **data analytics, visualization, and business insight generation skills** in the context of **supply chain management**.
